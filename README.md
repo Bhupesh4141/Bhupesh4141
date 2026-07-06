@@ -63,15 +63,6 @@ I'm a passionate developer exploring the vast universe of code! 🚀
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhupesh4141&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhupesh4141&theme=radical&layout=compact&hide_border=true)
-
-</div>
 
 ---
 
@@ -100,9 +91,8 @@ I'm a passionate developer exploring the vast universe of code! 🚀
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bhupesh4141)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhupesh4141)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Bhupesh4141)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhupesh414)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-bhupiii405@gmai.com)
 
 </div>
 
@@ -122,7 +112,6 @@ I'm a passionate developer exploring the vast universe of code! 🚀
 
 <div align="center">
   
-  ### Made with ❤️ by Bhupesh
   
   *Last updated: 2026* ✨
   
