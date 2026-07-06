@@ -1,0 +1,42 @@
+{
+  "profile": {
+    "theme": "colorful",
+    "colors": {
+      "primary": "#FF6B6B",
+      "secondary": "#4ECDC4",
+      "accent": "#FFE66D",
+      "success": "#95E1D3",
+      "warning": "#F38181",
+      "info": "#AA96DA",
+      "light": "#FCBAD3",
+      "dark": "#2D3436"
+    },
+    "badges": {
+      "languages": ["Python", "JavaScript", "TypeScript", "Java", "C++"],
+      "frameworks": ["React", "Vue.js", "Node.js"],
+      "tools": ["Docker", "Git", "AWS", "VS Code"],
+      "databases": ["MongoDB", "PostgreSQL", "MySQL", "Firebase"]
+    },
+    "social": {
+      "github": "https://github.com/Bhupesh4141",
+      "linkedin": "https://linkedin.com/in/bhupesh4141",
+      "twitter": "https://twitter.com/Bhupesh4141",
+      "email": "your-email@example.com"
+    },
+    "features": {
+      "showGithubStats": true,
+      "showStreaks": true,
+      "showTopLanguages": true,
+      "showContributions": true,
+      "animations": true,
+      "emojis": true
+    }
+  },
+  "customization": {
+    "backgroundColor": "radial-gradient(circle at 20% 50%, rgba(255, 107, 107, 0.1), transparent), radial-gradient(circle at 80% 80%, rgba(78, 205, 196, 0.1), transparent)",
+    "textColor": "#2D3436",
+    "accentColor": "#FF6B6B",
+    "borderRadius": "12px",
+    "shadowBlur": "8px"
+  }
+}
